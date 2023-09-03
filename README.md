@@ -1,8 +1,8 @@
 # Vite.js + React Boilerplate
 
-![GitHub License](https://img.shields.io/github/license/sarthakskumar/your-repo-name)
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/your-repo-name)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/your-repo-name)
+![GitHub License](https://img.shields.io/github/license/SarthakSKumar/Vite.js-React.js-Tailwind-Boilerplate)
+![GitHub Stars](https://img.shields.io/github/stars/SarthakSKumar/Vite.js-React.js-Tailwind-Boilerplate)
+![GitHub Forks](https://img.shields.io/github/forks/SarthakSKumar/Vite.js-React.js-Tailwind-Boilerplate)
 
 Welcome to the Vite.js and React Boilerplate repository! 🚀 This boilerplate provides you with a starting point for your React projects, complete with Tailwind CSS, PostCSS, Autoprefixer, and SWC for JavaScript optimization.
 
@@ -57,3 +57,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Autoprefixer](https://autoprefixer.github.io/)
 - [SWC](https://swc.rs/)
 - [Yarn](https://yarnpkg.com/)
+
+## Author
+
+- [Sarthak S Kumar](https://github.com/SarthakSKumar)
