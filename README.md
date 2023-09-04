@@ -1,3 +1,5 @@
+<img src="banner.png" alt="Vite+React+Tailwind Boilerplate | Sarthak S Kumar"></img>
+
 # Vite.js + React Boilerplate
 
 ![GitHub License](https://img.shields.io/github/license/SarthakSKumar/Vite.js-React.js-Tailwind-Boilerplate)
